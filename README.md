@@ -26,3 +26,8 @@ DATABASES = {
         'PORT': 3306,
     }
 }
+
+
+## Ahora puedo crear mi primer App dentro del proyecto de django corriendo el siguiente comando:
+
+python manage.py startapp <REPLACE BY APP NAME>
